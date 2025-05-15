@@ -26,14 +26,14 @@ MATERIAL_MAPPING = {
 }
 
 ENERGY_VELOCITY_MAPPING = {
-    "600mJ": "408 m/s",
-    "800mJ": "550 m/s",
-    "1000mJ": "600 m/s",
-    "1200mJ": "730 m/s",
-    "1350mJ": "650 m/s",
-    "1500mJ": "830 m/s",
-    "1600mJ": "850 m/s",
-    "1700mJ": "870 m/s"
+    "a mJ": "aa m/s",
+    "b mJ": "bb m/s",
+    "c mJ": "cc m/s",
+    "d mJ": "dd m/s",
+    "e mJ": "ee m/s",
+    "f mJ": "ff m/s",
+    "g mJ": "gg m/s",
+    "h mJ": "hh m/s"
     # Add others as needed
 }
 
@@ -45,22 +45,22 @@ COLOR_MAPPING = {
     "SC [111]": "b",    # Blue
     "Default": "gray", # Fallback color for experimental data if type unknown
     # Add colors for literature sources or specific model lines
-    "Kanel": "#1f77b4", # Example color
-    "Moshe": "#ff7f0e", # Example color
-    "Chen": "#2ca02c", # Example color
-    "Wilkerson": "#9467bd", # Example color
-    "Priyadarshan": "#8c564b", # Example color
-    "Arad et al. (poly)": "#e377c2", # Example color
-    "Escobedo et al. (poly)": "#7f7f7f", # Example color
+    "aaa": "#1f77b4", # Example color
+    "bbb": "#ff7f0e", # Example color
+    "ccc": "#2ca02c", # Example color
+    "ddd": "#9467bd", # Example color
+    "eee": "#8c564b", # Example color
+    "Arad et al.": "#e377c2", # Example color
+    "Escobedo et al. ": "#7f7f7f", # Example color
     "Fortov et al.": "#bcbd22", # Example color
-    "G. Kanel et al. (poly)": "#17becf", # Example color
-    "Minich et al. (single Crystal)": "#aec7e8", # Example color
-    "Mukherjee et al. (poly)": "#ffbb78", # Example color
-    "Ogoronikov et al. (poly)": "#98df8a", # Example color
-    "Paisley et al. (poly)": "#ff9896", # Example color
-    "Peralta et al. (poly)": "#c5b0d5", # Example color
-    "T.Chen et al. (poly)": "#c49c94", # Example color
-    "Turney et al. (Single Crystal)": "#f7b6d2", # Example color
+    "G. Kanel et al. ": "#17becf", # Example color
+    "Minich et al. ": "#aec7e8", # Example color
+    "Mukherjee et al. ": "#ffbb78", # Example color
+    "Ogoronikov et al. ": "#98df8a", # Example color
+    "Paisley et al. ": "#ff9896", # Example color
+    "Peralta et al.": "#c5b0d5", # Example color
+    "T.Chen et al. (": "#c49c94", # Example color
+    "Turney et al. ": "#f7b6d2", # Example color
     "Yong-Gang et al. (nano)": "#dbdb8d", # Example color
     # Model lines from multi-wilkerson plot
     "Poly (4um)": "#2ca02c", # Green solid
